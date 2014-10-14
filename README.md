@@ -1,4 +1,0 @@
-test-box
-========
-
-MY test
